@@ -209,7 +209,6 @@ body {
 
   /* User card full width below */
   .user-card {
-    width: 100%;
     margin-top: 0.5rem;
     padding: 0.5rem 1rem;
     background-color: #e6fffa;
