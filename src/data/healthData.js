@@ -20,7 +20,7 @@ export const healthData = [
     progress: 85
   },
   {
-    id: 1,
+    id: 2,
     organ: 'Lungs',
     status: 'healthy',
     date: '15 Nov 2021',
@@ -28,7 +28,7 @@ export const healthData = [
     progress: 85
   },
   {
-    id: 2,
+    id: 3,
     organ: 'Teeth',
     status: 'needs attention',
     date: '20 Oct 2021',
@@ -36,7 +36,7 @@ export const healthData = [
     progress: 70
   },
   {
-    id: 3,
+    id: 4,
     organ: 'Bone',
     status: 'healthy',
     date: '15 Oct 2021',
